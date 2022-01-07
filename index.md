@@ -10,4 +10,4 @@ Bu sayfa içerisinde
 * Duyurular 
 Paylaşılmaktadır.
 
-Sayfa yönetimi [20215070056] (20215070056.github.io) tarafından yapılmaktadır.
+Sayfa yönetimi [20215070056](20215070056.github.io) tarafından yapılmaktadır.
