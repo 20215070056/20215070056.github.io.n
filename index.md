@@ -1,6 +1,6 @@
 ![](<img src="Resource/Images/osmaniye-korkut-ata-universitesi.png">)
 
-# Osmaniye Korkut Ata 
+# Osmaniye Korkut Ata Üniversitesi
 ## Yönetim Bilişim Sistemleri
 ### Github Sayfasıdır 
 
